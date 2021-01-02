@@ -29,5 +29,4 @@ Detalhes completos da apresentação podem ser conferidos a partir do seguinte d
 [RifaMaster: Apresentação em PDF](https://github.com/eduardo-stuart/RifaMaster/blob/master/RifaMaster.pdf)
 
 ### Sobre
-Desenvolvido por **Eduardo Stuart** em Agosto de 2017.
-Para entrar em contato, visite o meu [LinkedIn](https://www.linkedin.com/in/eduardo-stuart/) e deixe um recado.
+Desenvolvido por **Eduardo Stuart**, você pode entrar em contato comigo via [LinkedIn](https://www.linkedin.com/in/eduardo-stuart/).   
