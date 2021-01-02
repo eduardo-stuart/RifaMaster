@@ -4,9 +4,7 @@
  ![RifaMaster - Tela Principal](tela.png)
 
 ### Proposta
-Sistema integralmente desenvolvido por **Eduardo Stuart**, sendo apresentado para o público no segundo semestre de 2017 nas dependências da **Universidade Veiga de Almeida ─ Campus Centro**.
-
-Idealizado e desenvolvido com o objetivo de demonstrar o desenvolvimento de um sistema completo que empregrasse a **Programação Orientada a Objetos**, o padrão de arquitetura **MVC** (*Model-View-Controller*) e uma interface gráfica que fosse intuitiva e amigável.
+Idealizado com o objetivo de demonstrar o desenvolvimento de um sistema completo que empregrasse a **Programação Orientada a Objetos**, o padrão de arquitetura **MVC** (*Model-View-Controller*) e uma interface gráfica que fosse intuitiva e amigável, o **RifaMaster** é um sistema criado por **Eduardo Stuart** e que foi apresentado para o público no segundo semestre do ano de 2017, nas dependências da **Universidade Veiga de Almeida ─ Campus Centro**.
 
 Todo o sistema foi desenvolvido usando somente as bibliotecas nativas do **JAVA 8**.
 
