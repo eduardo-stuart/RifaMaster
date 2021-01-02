@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PesquisarParticipantes
+comment1.params=rifa
+comment1.target=void\ setRifaMaster(RifaMaster)
+comment10.params=rifa
+comment10.target=PesquisarParticipantes(RifaMaster)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=RifaMaster\ getRifaMaster()
+comment3.params=
+comment3.target=javax.swing.JPanel\ criarPainelSuperior()
+comment4.params=
+comment4.target=javax.swing.JPanel\ criarPainelComTabela()
+comment5.params=
+comment5.target=javax.swing.JPanel\ criarPainelInferior()
+comment6.params=
+comment6.target=void\ gerarTelaPrincipal()
+comment7.params=event
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=e
+comment8.target=void\ focusGained(java.awt.event.FocusEvent)
+comment9.params=e
+comment9.target=void\ focusLost(java.awt.event.FocusEvent)
+numComments=12

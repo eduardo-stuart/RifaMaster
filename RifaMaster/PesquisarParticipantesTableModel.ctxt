@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=PesquisarParticipantesTableModel
+comment1.params=rifa
+comment1.target=void\ setRifaMaster(RifaMaster)
+comment10.params=tickets
+comment10.target=void\ filtrarPorTickets(int)
+comment11.params=
+comment11.target=void\ resetarFiltros()
+comment12.params=atualizarTabela
+comment12.target=void\ resetarFiltros(boolean)
+comment2.params=rifa
+comment2.target=PesquisarParticipantesTableModel(RifaMaster)
+comment3.params=
+comment3.target=int\ getRowCount()
+comment4.params=
+comment4.target=int\ getColumnCount()
+comment5.params=columnIndex
+comment5.target=java.lang.Class\ getColumnClass(int)
+comment6.params=columnIndex
+comment6.target=java.lang.String\ getColumnName(int)
+comment7.params=row\ column
+comment7.target=java.lang.Object\ getValueAt(int,\ int)
+comment8.params=i
+comment8.target=void\ filtrarPorCodigo(int)
+comment9.params=nome
+comment9.target=void\ filtrarPorNome(java.lang.String)
+numComments=13

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ParticipantesTableModel
+comment1.params=rifa
+comment1.target=void\ setRifaMaster(RifaMaster)
+comment2.params=rifa
+comment2.target=ParticipantesTableModel(RifaMaster)
+comment3.params=
+comment3.target=int\ getRowCount()
+comment4.params=
+comment4.target=int\ getColumnCount()
+comment5.params=columnIndex
+comment5.target=java.lang.Class\ getColumnClass(int)
+comment6.params=columnIndex
+comment6.target=java.lang.String\ getColumnName(int)
+comment7.params=row\ column
+comment7.target=java.lang.Object\ getValueAt(int,\ int)
+numComments=8

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=AdicionarParticipanteGUI
+comment1.params=
+comment1.target=java.lang.String\ getNome()
+comment10.params=
+comment10.target=AdicionarParticipanteGUI()
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=int\ getTickets()
+comment4.params=tickets
+comment4.target=void\ setTickets(int)
+comment5.params=
+comment5.target=boolean\ gravarNovoParticipante()
+comment6.params=event
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ focusGained(java.awt.event.FocusEvent)
+comment8.params=e
+comment8.target=void\ focusLost(java.awt.event.FocusEvent)
+comment9.params=
+comment9.target=void\ gerarTela()
+numComments=12
